@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vinci Flashlight</string>
+    <string name="lx_num_default_value">0 lx</string>
+    <string name="footer_text">我还是希望你能叫我的全名\n\"Da Vinci Flashlight\"</string>
+</resources>
