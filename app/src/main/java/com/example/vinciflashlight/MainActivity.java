@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
                 float lightNum = event.values[0];
                 tvLxNum.setText(String.format("%s lx", lightNum));
 
-                if (lightNum > 300) {
+                if (lightNum > 1000) {
                     try {
                         cameraManager.setTorchMode(cameraId, true);
                     } catch (CameraAccessException e) {
